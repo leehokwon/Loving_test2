@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "279179833545",
+    "firebase_url": "https://ltest-b720a-default-rtdb.firebaseio.com",
+    "project_id": "ltest-b720a",
+    "storage_bucket": "ltest-b720a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279179833545:android:aa41ae53c7390235e59d18",
+        "android_client_info": {
+          "package_name": "com.example.loving_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279179833545-6nsljm933g7ih0erv9e6kr3eoh5qji7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loving_test",
+            "certificate_hash": "5256acad398cefd1c60f8d338edaa4fac3ecbb55"
+          }
+        },
+        {
+          "client_id": "279179833545-ev0kp2r5tvi9maoan4m2mvh92e877bh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9DinPKzwGMUzOeoN2ybDeZ4CW7QoS3xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279179833545-ev0kp2r5tvi9maoan4m2mvh92e877bh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
