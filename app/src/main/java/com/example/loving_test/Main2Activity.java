@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class LoginActivity extends AppCompatActivity {
+public class Main2Activity extends AppCompatActivity {
 
     private Button loginBtn;
 
@@ -19,8 +19,8 @@ public class LoginActivity extends AppCompatActivity {
         loginBtn = (Button) findViewById(R.id.login_btn);
         loginBtn.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent intent = new Intent(LoginActivity.this , MainActivity.class);
-                startActivity(intent);
+//                Intent intent = new Intent(MainActivity.this , Main2Activity.class);
+//                startActivity(intent);
 //
             }
         });
